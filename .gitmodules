@@ -1,0 +1,3 @@
+[submodule "x_flutter_module"]
+	path = x_flutter_module
+	url = https://github.com/TFous/x_flutter_module.git
